@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kalender.java&apos; to &apos;Kalender.java&apos;&#x0D;&#x0A;- Original project: &apos;2_1_Calendar&apos;&#x0D;&#x0A;- Original element: &apos;kalender.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Kalender.java&apos;" description="Rename compilation unit &apos;kalender.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{kalender.java" name="Kalender.java" references="false" stamp="1311500848031" version="1.0"/>
+</session>

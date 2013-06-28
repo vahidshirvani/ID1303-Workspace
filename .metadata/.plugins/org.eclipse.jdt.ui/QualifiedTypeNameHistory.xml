@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioFormat.Encoding"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.TargetDataLine"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioFileFormat"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioFileFormat.Type"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioSystem"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.DataLine"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.DataLine.Info"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.awt.geom.Ellipse2D.Double"/>
+<fullyQualifiedTypeName name="java.awt.geom.Rectangle2D.Double"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.Lock"/>
+</qualifiedTypeNameHistroy>
